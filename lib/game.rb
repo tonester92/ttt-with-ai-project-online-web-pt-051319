@@ -1,5 +1,5 @@
 class Game
-  attr_accessor :board, :player_1, :player_2, :winner, :user_input
+  attr_accessor :board, :player_1, :player_2, :winner
 
   WIN_COMBINATIONS = [
   [0,1,2],
