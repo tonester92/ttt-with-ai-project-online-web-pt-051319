@@ -5,3 +5,6 @@ class Player
     @token = token
   end
 end
+
+class Player::Human
+  
